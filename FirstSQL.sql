@@ -6,3 +6,5 @@ insert into Emp (id,Name,city) VALUES(1,'Abhishake','Hyd'),(2,'Milind','Hyd'),(3
 ,(6,'Darshan','Nashik')
 
 select * from Emp where city = 'Nashik'
+
+select * from Emp where city = 'hydrabad'
